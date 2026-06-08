@@ -1,4 +1,4 @@
-# Hi, I'm Akash Payra! 👋
+# Hi, I'm Akash! 👋
 
 ### 🚀 About Me
 - 🖥️ **What I'm up to:** Getting my development environment dialed in and setting up VS Code.
